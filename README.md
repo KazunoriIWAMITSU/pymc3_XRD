@@ -20,4 +20,4 @@ It is recommended to build the environment by installing the following distribut
 
 ## Maintainer
 
-* **Kazunori Iwamitsu** [URL](https://github.com/KazunoriIWAMITSU)
+* **Kazunori Iwamitsu** [HP](https://github.com/KazunoriIWAMITSU)
